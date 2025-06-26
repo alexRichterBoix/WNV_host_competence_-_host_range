@@ -7,6 +7,10 @@ This repository includes two datasets: (1) experimental infection data with vire
 - **Metadata**: Definitions of variables used in the datasets.
 - **References**: Full citations of all experimental studies and doi to the original papers.
 
+![Viremia curve example](figures/Host competence.png)
+
+
+
 ## 2. WNV Host Susceptibility Database
 - **Observations**: Field records of WNV infection in free-ranging animals. Includes species, year, location, diagnostic method (PCR, virus isolation, serology), and prevalence estimates.
 - **Metadata**: Definitions of variables used in the datasets.
