@@ -13,7 +13,7 @@ This repository includes two datasets: (1) experimental infection data with vire
 - **References**: Full citations of all experimental studies and doi to the original papers
 - **Taxonomy**: Given the dynamic nature of bird taxonomy, avian host classifications follow an integrative approach aligned with the AVONET dataset, incorporating multiple taxonomic treatments to facilitate compatibility with ecological trait databases, phylogenetic analyses, GBIF, and eBird abundance maps. Specifically, the taxonomic crosswalk framework of Tobias et al.(2022) was applied, integrating BirdLife International, eBird, and BirdTree, with additional verification and updates performed via Avibase. Mammalian hosts were standardized using the Mammal Diversity Database and the GBIF Backbone Taxonomy, thus ensuring precision by retrieving accepted scientific names along with their corresponding taxon IDs from the GBIF. Same for Amphibia and Squamata species included in the literature review.
 
-![Cumulative tested species for WNV](figures/Cumulative_tested_species.png)
+![Cumulative tested species for WNV](figures/Zoorealms_tested.png)
 
 ## 3. WNV Host Competence Calculation Script
 
