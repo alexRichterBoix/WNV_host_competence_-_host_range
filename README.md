@@ -44,7 +44,6 @@ The script also supports exploratory plots of viremia dynamics and survival traj
 
 ![Host competence example definition from the probability of infecting *Culex pipiens*](figures/Host%20competence.png)
 
-
 ## Citation
 
 If you use this dataset, please cite the associated publication:
