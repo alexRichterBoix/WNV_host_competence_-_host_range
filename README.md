@@ -7,10 +7,6 @@ This repository includes two datasets: (1) experimental infection data with vire
 - **Metadata**: Definitions of variables used in the datasets.
 - **References**: Full citations of all experimental studies and doi to the original papers.
 
-![Viremia curve example](figures/Host competence.png)
-
-
-
 ## 2. WNV Host Susceptibility Database
 - **Observations**: Field records of WNV infection in free-ranging animals. Includes species, year, location, diagnostic method (PCR, virus isolation, serology), and prevalence estimates.
 - **Metadata**: Definitions of variables used in the datasets.
@@ -45,6 +41,8 @@ The `WNV_Host_Competence` folder contains an R script used to estimate host-leve
 - **`mean_daily_survival` / `se_daily_survival`** – Mean and SE of daily survival across the infection period  
 
 The script also supports exploratory plots of viremia dynamics and survival trajectories across species.
+
+![Host competence example definition from the probability of infecting *Culex pipiens*](figures/Host%20competence.png)
 
 
 ## Citation
