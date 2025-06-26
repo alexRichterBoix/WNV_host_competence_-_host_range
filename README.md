@@ -58,6 +58,7 @@ and cite the Zenodo repository entry, including the specific version of the data
 ## Contact
 
 For questions or collaboration inquiries, please contact Alex Richter-Boix at [alex.richter@ceab.csic.es].
+Our goal is to regularly maintain and expand the database. This will be achieved through systematic reviews of the literature and direct contributions from the research community. We encourage researchers to report any updates or corrections to the corresponding author to ensure accuracy and ongoing data improvement.
 
 ## License
 
