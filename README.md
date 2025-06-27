@@ -47,6 +47,7 @@ The `WNV_Host_Competence` folder contains an R script used to estimate host-leve
 The script also supports exploratory plots of viremia dynamics and survival trajectories across species.
 
 ![Host competence example definition from the probability of infecting *Culex pipiens*](figures/Host%20competence.png)
+![Viramia dynamics and survival trajectories](figures/mortality2.png)
 
 ## Citation
 
