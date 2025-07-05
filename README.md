@@ -50,6 +50,9 @@ And the Maximal Decay Rate (Vmax), that represents the steepest rate of viremia 
 ### Transmission Efficiency Metrics
 - **`sum_transmission_efficiency`** – Probability of infecting *Culex pipiens*, based on viral load above threshold  
 - **`transmission_efficiency_mortality_corrected`** – Same as above, adjusted by daily host survival to reflect exposure likelihood
+- *Culex pipiens* experimental data has been extracted from:
+> [Tiawsirisup, S., Platt, K. B., Evans, R. B. & Rowley, W. A. A comparision of West Nile virus transmission by *Ochlerotatus trivittatus* (coq.), *Culex pipiens*, and *Aedes albopictus* (Skuse). Vector-Borne Zoonotic Dis. 5, 40–47, 10.1089/vbz.2005.4735.40 (2005).474]
+> [Tiawsirisup, S. et al. Vector competence of *Aedes vexans* (diptera: Culicidae) for West Nile virus and potential as anenzootic vector). Jorunal Med. Entomol. 45, 452–457, 10.1093/jmedent/45.3.452 (2008)]
 
 ### Summary Statistics by Species
 - **`n_curves`** – Number of infection curves analyzed  
