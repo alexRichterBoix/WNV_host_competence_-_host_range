@@ -21,10 +21,18 @@ This repository includes two datasets: (1) experimental infection data with vire
 
 The `R_script` folder contains an R script named "wnv_host_experiments_analysis.r" used to estimate host-level parameters from viremia curves based on a systematic review of experimental infection studies. These scripts compute key viral dynamics and transmission efficiency metrics for each host species.  We implement the Wood equation, an incomplete gamma function that has been shown to effectively model viremia profiles and antibody concentration dynamics:
 
-V(t)=a⋅t 
-b
- ⋅e 
-−ct
+![Wood equation](figures/wood_equation.png)
+
+Where:
+V(t) is the viremia at time t, while 𝑎, 𝑏 and 𝑐 are fitted parameters.
+
+Additionally, two biologically parameters are derived from the fitted curve to describe the host’s response during the post-peak phase: Time to Maximum Decay (Tmax), that indicates when the maximum decline in viremia occurs — a proxy for how rapidly the host initiates viral control:
+
+![Tmax](figures/tmax_equation.png)
+
+And the Maximal Decay Rate (Vmax), that represents the steepest rate of viremia decline, interpreted as the host's viral clearance efficiency:
+
+![Vmax](figures/vmax_equation.png)
 
 ### Estimated Parameters
 - **`a1`** – Magnitude parameter of the Wood equation  
