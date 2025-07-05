@@ -19,7 +19,7 @@ This repository includes two datasets: (1) experimental infection data with vire
 
 ## 3. WNV Host Competence Calculation Script
 
-The `R_script` folder contains an R script named "wnv_host_experiments_analysis.r" used to estimate host-level parameters from viremia curves based on a systematic review of experimental infection studies. These scripts compute key viral dynamics and transmission efficiency metrics for each host species.  We implement the Wood equation, an incomplete gamma function that has been shown to effectively model viremia profiles and antibody concentration dynamics:
+The `R_script` folder contains an R script named **`wnv_host_experiments_analysis.r`** used to estimate host-level parameters from viremia curves based on a systematic review of experimental infection studies. These scripts compute key viral dynamics and transmission efficiency metrics for each host species.  We implement the Wood equation, an incomplete gamma function that has been shown to effectively model viremia profiles and antibody concentration dynamics:
 
 ![Wood equation](figures/wood_equation.png)
 
