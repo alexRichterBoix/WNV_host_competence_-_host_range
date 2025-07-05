@@ -79,3 +79,7 @@ Our goal is to regularly maintain and expand the database. This will be achieved
 ## License
 
 This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+## Acknowledgements
+
+This work is part of the [E4Warning project](https://www.e4warning.eu), funded by the European Union’s Horizon Europe programme (HORIZON Research and Innovation Actions) under **Grant Agreement No. 101086640**. We gratefully acknowledge Dr. Hiroaki Shirafuji and Dr. Fátima Cardozo, who kindly shared their data, contributing to the databases.
