@@ -52,7 +52,7 @@ And the Maximal Decay Rate (Vmax), that represents the steepest rate of viremia 
 - **`transmission_efficiency_mortality_corrected`** – Same as above, adjusted by daily host survival to reflect exposure likelihood
 - *Culex pipiens* experimental data has been extracted from:
 
-> - Tiawsirisup, S., Platt, K. B., Evans, R. B., & Rowley, W. A. (2005). A comparison of West Nile virus transmission by *Ochlerotatus trivittatus* (Coq.), *Culex pipiens*, and *Aedes albopictus* (Skuse). *Vector-Borne and Zoonotic Diseases*, 5, 40–47. [https://doi.org/10.1089/vbz.2005.4735.40](https://doi.org/10.1089/vbz.2005.4735.40)
+> - Tiawsirisup, S., Platt, K. B., Evans, R. B., & Rowley, W. A. (2005). A comparison of West Nile virus transmission by *Ochlerotatus trivittatus* (Coq.), *Culex pipiens*, and *Aedes albopictus* (Skuse). *Vector-Borne and Zoonotic Diseases*, 5, 40–47. [https://doi.org/10.1089/vbz.2005.4735.40](https://doi.org/10.1089/vbz.2005.5.40)
 >
 > - Tiawsirisup, S. et al. (2008). Vector competence of *Aedes vexans* (Diptera: Culicidae) for West Nile virus and potential as an enzootic vector. *Journal of Medical Entomology*, 45, 452–457. [https://doi.org/10.1093/jmedent/45.3.452](https://doi.org/10.1093/jmedent/45.3.452)
 
