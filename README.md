@@ -87,4 +87,4 @@ This project is licensed under the [Creative Commons Attribution 4.0 Internation
 
 ## Acknowledgements
 
-This work is part of the [E4Warning project](https://www.e4warning.eu), funded by the European Union’s Horizon Europe programme (HORIZON Research and Innovation Actions) under **Grant Agreement No. 101086640**. We gratefully acknowledge Dr. Hiroaki Shirafuji and Dr. Fátima Cardozo, who kindly shared their data, contributing to the databases.
+This work is part of the [E4Warning project](https://www.e4warning.eu), funded by the European Union’s Horizon Europe programme (HORIZON Research and Innovation Actions) under Grant Agreement No. **101086640**, and the [VEO project](https://www.veo-europe.eu) (Versatile Emerging infectious disease Observatory), funded under the EU Horizon 2020 programme (Grant Agreement No. **874735**). We gratefully acknowledge Dr. Hiroaki Shirafuji and Dr. Fátima Cardozo, who kindly shared their data, contributing to the databases.
