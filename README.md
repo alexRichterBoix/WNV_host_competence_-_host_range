@@ -64,7 +64,7 @@ And the Maximal Decay Rate (Vmax), that represents the steepest rate of viremia 
 
 The script also supports exploratory plots of viremia dynamics and survival trajectories across species.
 
-![Host competence example definition from the probability of infecting *Culex pipiens*](figures/WNV%Competent-non-competent.png)
+![Host competence example definition from the probability of infecting *Culex pipiens*](figures/WNV%20Competent-non-competent.png)
 ![Viramia dynamics and survival trajectories](figures/mortality2.png)
 
 ## Citation
