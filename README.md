@@ -35,9 +35,9 @@ And the Maximal Decay Rate (Vmax), that represents the steepest rate of viremia 
 ![Vmax](figures/vmax_equation.png)
 
 ### Estimated Parameters
-- **`a1`** – Magnitude parameter of the Wood equation  
-- **`b1`** – Initial rate to peak viremia  
-- **`c1`** – Decline rate after peak  
+- **`a`** – Magnitude parameter of the Wood equation  
+- **`b`** – Initial rate to peak viremia  
+- **`c`** – Decline rate after peak  
 - **`Tmax`** – Time to maximal decay  
 - **`Vmax`** – Maximal decay rate (indicator of immune response efficiency)  
 - **`peak_titer`** – Peak viremia  
