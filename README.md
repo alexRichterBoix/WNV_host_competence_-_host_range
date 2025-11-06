@@ -74,7 +74,7 @@ If you use this dataset, please cite the associated publication:
 > [Insert full citation when available]
 
 
-and cite the Zenodo repository entry, including the specific version of the data set used. Importantly, referencing these datasets does not replace the obligation to cite the original studies, which are fully documented within the datasets (References) that generated the primary data when necessary.
+and cite the Zenodo repository entry, including the specific version of the data set used. Importantly, referencing the dataset does not replace the obligation to cite the original studies when they are used individually or a subset (i.e., a few constituent studies); these are fully documented in the dataset’s References and should be cited to acknowledge the primary data generators where appropriate.
 
 ## Contact
 
