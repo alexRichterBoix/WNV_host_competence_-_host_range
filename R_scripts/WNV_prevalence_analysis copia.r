@@ -23,7 +23,7 @@ library(RColorBrewer)
 #--------- Descriptive statistics------------------------------------
 
 # Read in your data
-wnv_data <- read_excel("WNV_Host_Susceptability_Review.xlsx")  # Adjust the path if necessary
+wnv_data <- read_excel("WNV_Host_Prevalence_final.xlsx")  # Adjust the path if necessary
 
 # Clean the data (remove references of lists of species without "prevalence information" only species detection)
 wnv_data_clean <- wnv_data %>%
